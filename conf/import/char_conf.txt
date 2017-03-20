@@ -27,3 +27,5 @@ char_ip: 52.178.219.173
 
 // Character Server Port
 char_port: 6121
+
+start_point: prontera,156,191
