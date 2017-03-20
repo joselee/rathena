@@ -15,7 +15,7 @@ wisp_server_name: jupoRO
 // The character server connects to the login server using this IP address. This is an internal connection, so keep it local IP
 // NOTE: This is useful when you are running behind a firewall or are on
 // a machine with multiple interfaces.
-login_ip: localhost
+login_ip: 52.178.219.173
 
 // Login Server Port
 login_port: 6900
